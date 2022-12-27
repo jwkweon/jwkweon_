@@ -1,8 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's&fontSize=90" />
 
-<div align=center><h3>Hi there!</h3>
+<div align=center><h3>🌱Introduction</h3>
+---
+  I'm currently majoring in Electronic engineering from Kwaongwoon Univ.
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkweon&layout=compact"><br><br>
+-->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwkweon&show_icons=true&theme=dracula)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=02kjw0203)](https://solved.ac/02kjw0203)
