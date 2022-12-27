@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's&fontSize=90" />
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkweon&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=jwkweon&show_icons=true">
+
 ### Hi there 👋
 
 <!--
