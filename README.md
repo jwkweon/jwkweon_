@@ -2,7 +2,7 @@
 
 <div align=center><h3>🌱Introduction</h3>
 ---
-  I'm currently majoring in Electronic engineering from Kwaongwoon Univ.
+  I'm currently majoring in Electronic engineering from Kwangwoon Univ.
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkweon&layout=compact"><br><br>
